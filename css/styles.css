@@ -1,0 +1,177 @@
+.first {
+  background-color: #70adb5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.design-row{
+  width: 50%;
+  margin: 100px auto;
+}
+.second {
+  padding: 100px 0;
+  background-color: #ecf4f3;
+
+}
+
+.intro{
+  width: 30%;
+  text-align: center;
+}
+
+.third {
+background-color: #66bfbf;
+}
+.c{
+  color: white;
+  margin-bottom: 0;
+}
+
+.monkey {
+  border-radius: 50%;
+}
+
+.football-pic{
+  border-radius: 45%;
+  float: left;
+  margin-right: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+p {
+  line-height: 30px;
+  font-weight: lighter;
+  position: relative;
+  margin: 10px auto;
+  font-family: 'Grenze Gotisch', cursive;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: #00aa55;
+  width: 50%;
+  margin: 0 auto;
+  font-family: 'Lobster', cursive;
+  font-size: 4em;
+}
+
+h2 {
+
+  font-weight: normal;
+  color: #11bb88;
+  font-family: 'Sacramento', cursive;
+}
+
+.ig {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border-style: none;
+}
+
+.tw {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border-style: none;
+}
+
+.fb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border-style: none;
+}
+
+.footer-link{
+  margin: 0 20px;
+}
+
+h3 {
+  font-weight: 100;
+  color: #11bb88;
+  font-family: 'Dancing Script', cursive;
+}
+
+.sticker {
+  height: 200px;
+  border-style: none;
+  width: 45%;
+  float:right;
+
+}
+
+.bottomcloud {
+  position: absolute;
+  bottom: 350px;
+  left: 250px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: brown;
+  border-width: thick;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.btn{
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #45c782), color-stop(1, #2a5bbd) );
+	background:-moz-linear-gradient( center top, #45c782 5%, #2a5bbd 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#45c782', endColorstr='#2a5bbd');
+	background-color:#45c782;
+	-webkit-border-top-left-radius:17px;
+	-moz-border-radius-topleft:17px;
+	border-top-left-radius:17px;
+	-webkit-border-top-right-radius:17px;
+	-moz-border-radius-topright:17px;
+	border-top-right-radius:17px;
+	-webkit-border-bottom-right-radius:17px;
+	-moz-border-radius-bottomright:17px;
+	border-bottom-right-radius:17px;
+	-webkit-border-bottom-left-radius:17px;
+	-moz-border-radius-bottomleft:17px;
+	border-bottom-left-radius:17px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+  font-family: 'Sacramento', cursive;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+height:55px;
+	line-height:55px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #121412;
+}
+.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #2a5bbd), color-stop(1, #45c782) );
+	background:-moz-linear-gradient( center top, #2a5bbd 5%, #45c782 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2a5bbd', endColorstr='#45c782');
+	background-color:#2a5bbd;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.design{
+  margin-top: 50px;
+}
